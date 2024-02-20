@@ -1,0 +1,83 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/html.png",
+      "title": "HTML",
+      "description": "Creating Modern and well-structured HTML webpages. "
+    },
+    {
+      "id": "2",
+      "src": "./img/css.png",
+      "title": "CSS",
+      "description": "Strong foundation in creating CSS for visually appealing webpages. "
+    },
+    {
+      "id": "3",
+      "src": "./img/js.png",
+      "title": "JAVA SCRIPT",
+      "description": "Proﬁcient in writing clean and efficient Java Script code.ES6,DOM Manipulation,Event Handling"
+    },
+    {
+      "id": "4",
+      "src": "./img/reactjs.png",
+      "title": "REACT JS",
+      "description": "Skilled in developing interactive  and responsive user interfaces using React js."
+    },
+    {
+      "id": "5",
+      "src": "./img/nodejs.png",
+      "title": "NODE JS",
+      "description": "Familiarity with server-side scripting and building scalable applications using Node js."
+    },
+    {
+      "id": "6",
+      "src": "./img/mongodb.png",
+      "title": "M0NGO DB",
+      "description": "Experience in working with MongoDB for efficient data storage and retrieval. "
+    },
+    {
+      "id": "7",
+      "src": "./img/sql.png",
+      "title": "SQL",
+      "description": "Solid understanding of SQLJoins- SelfJoin,InnerJoin,OuterJoin & “CRUD OPERATIONS”."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/portf.png",
+      "title": "React-portfolio",
+      "description": "Elegantly designed portfolio websites how casing my passion for web development.Featuringauser-friendlyinterface,  projects,skills,and achievements.      ",
+      "link": "View In Github"
+    }
+    
+  ]
+  ,
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
