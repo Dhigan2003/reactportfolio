@@ -359,7 +359,7 @@ h3 {
   padding: 133.3px 85.3px;
   align-items: center;
   gap: 114.6px;
-  grid-template-columns: repeat(1, 1fr);
+  grid-template-columns: repeat(2, 1fr);
 }
 .about--section--img > img {
   width: 100%;
